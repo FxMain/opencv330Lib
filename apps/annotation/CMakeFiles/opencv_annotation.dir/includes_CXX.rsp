@@ -1,0 +1,1 @@
+-ID:/Qt/opencv-3.3.0/build -ID:/Qt/opencv-3.3.0/apps/annotation/PRIVATE -ID:/Qt/opencv-3.3.0/apps/annotation -ID:/Qt/opencv-3.3.0/include/opencv -ID:/Qt/opencv-3.3.0/modules/core/include -ID:/Qt/opencv-3.3.0/modules/highgui/include -ID:/Qt/opencv-3.3.0/modules/imgproc/include -ID:/Qt/opencv-3.3.0/modules/imgcodecs/include -ID:/Qt/opencv-3.3.0/modules/videoio/include 

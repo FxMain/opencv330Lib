@@ -1,0 +1,1 @@
+-ID:/Qt/opencv-3.3.0/build -ID:/Qt/opencv-3.3.0/modules/superres/include -ID:/Qt/opencv-3.3.0/modules/superres/src -ID:/Qt/opencv-3.3.0/build/modules/superres -ID:/Qt/opencv-3.3.0/modules/core/include -ID:/Qt/opencv-3.3.0/modules/imgproc/include -ID:/Qt/opencv-3.3.0/modules/video/include -ID:/Qt/opencv-3.3.0/modules/imgcodecs/include -ID:/Qt/opencv-3.3.0/modules/videoio/include 
